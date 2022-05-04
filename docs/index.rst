@@ -15,5 +15,11 @@ Welcome to CatCutifier's documentation!
 Docs
 ====
 
-.. doxygenstruct:: cat
+.. doxygenstruct:: apple 
    :members:
+
+.. doxygenstruct:: cat
+   :members:   
+
+.. doxygenstruct:: Pear
+   :members:   
